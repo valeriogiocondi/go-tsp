@@ -22,7 +22,6 @@ func main () {
   tsp(graph, source)
 }
 
-
 func tsp(graph [][]int, source int) {
 
 	// Set of vertices
